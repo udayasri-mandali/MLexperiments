@@ -1,0 +1,14 @@
+# MLexperiments
+1.sgpa.ipynb
+This is a mini project .Let's not call it as project but a Machine Learning experiment 
+Overview : 
+       I have developed model to predict the Semester Grade Point Average based on the real time dataset.
+Purpose :
+       To predict sgpa based on the on individual subjects.
+Key Features :
+       Algorithm : Linear regression model with Multiple Independent Variables (Subjects,Labs) Basically a Mutliple regression model
+       Accuracy : 97.8% 
+       Regularization techniques : Lasso ,Ridge , Elastic-Net
+       
+       
+
