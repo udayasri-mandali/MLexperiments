@@ -9,6 +9,8 @@ Key Features :
        Algorithm : Linear regression model with Multiple Independent Variables (Subjects,Labs) Basically a Mutliple regression model
        Accuracy : 97.8% 
        Regularization techniques : Lasso ,Ridge , Elastic-Net
+2.lungcancer.ipynb
+This dataset regarding lung cancer.I developed a two decision tree based on potential attributes that best predicts the lung cancer
        
        
 
