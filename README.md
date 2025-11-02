@@ -1,6 +1,5 @@
 # MLexperiments
 1.sgpa.ipynb
-This is a mini project .Let's not call it as project but a Machine Learning experiment 
 Overview : 
        I have developed model to predict the Semester Grade Point Average based on the real time dataset.
 Purpose :
